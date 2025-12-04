@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/eugene.maina/Desktop/DATA%20SCIENCE/FX-trading-bot-EUR-USD/mlruns/686498655937936716/2f918290ebec421a8e1d2478fd514f7d/artifacts
+end_time: 1764852831759
+entry_point_name: ''
+experiment_id: '686498655937936716'
+lifecycle_stage: active
+run_id: 2f918290ebec421a8e1d2478fd514f7d
+run_name: xgb_optuna_best
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764852808464
+status: 3
+tags: []
+user_id: Eugene.maina

@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/eugene.maina/Desktop/DATA%20SCIENCE/FX-trading-bot-EUR-USD/mlruns/686498655937936716
+creation_time: 1764852792349
+experiment_id: '686498655937936716'
+last_update_time: 1764852792349
+lifecycle_stage: active
+name: eurusd_xgb_trading_bot
