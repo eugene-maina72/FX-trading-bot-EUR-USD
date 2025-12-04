@@ -211,3 +211,6 @@ secrets/
 
 # vscode
 .vscode/
+
+# ml runs
+mlruns/
