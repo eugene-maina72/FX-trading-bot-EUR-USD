@@ -1,0 +1,15 @@
+creation_timestamp: 1764869380684
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764869380684
+model_id: m-1dda228d559943b18a066bf257e4d3ee
+name: eurusd_xgb_signal_model
+run_id: de0a835c64d54c3c9cd71fbe86917d9a
+run_link: null
+source: models:/m-1dda228d559943b18a066bf257e4d3ee
+status: READY
+status_message: null
+storage_location: file:///c:/Users/eugene.maina/Desktop/DATA%20SCIENCE/FX-trading-bot-EUR-USD/mlruns/686498655937936716/models/m-1dda228d559943b18a066bf257e4d3ee/artifacts
+user_id: null
+version: 6

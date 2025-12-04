@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/eugene.maina/Desktop/DATA%20SCIENCE/FX-trading-bot-EUR-USD/mlruns/686498655937936716/models/m-d10ea04cf26e4131a89ba6b38ed6dfd1/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-d10ea04cf26e4131a89ba6b38ed6dfd1
+model_size_bytes: 497682
+model_uuid: m-d10ea04cf26e4131a89ba6b38ed6dfd1
+prompts: null
+run_id: 06c62fd7f70a443183a1838379b9a8a0
+utc_time_created: '2025-12-04 17:35:11.617799'

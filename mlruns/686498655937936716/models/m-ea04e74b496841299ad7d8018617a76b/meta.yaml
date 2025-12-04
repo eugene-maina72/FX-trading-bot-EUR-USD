@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/eugene.maina/Desktop/DATA%20SCIENCE/FX-trading-bot-EUR-USD/mlruns/686498655937936716/models/m-ea04e74b496841299ad7d8018617a76b/artifacts
+creation_timestamp: 1764865760324
+experiment_id: '686498655937936716'
+last_updated_timestamp: 1764865767969
+model_id: m-ea04e74b496841299ad7d8018617a76b
+model_type: null
+name: model
+source_run_id: b3a0c2339eec4ccab7a7b7946dd5f892
+status: 2
+status_message: null
