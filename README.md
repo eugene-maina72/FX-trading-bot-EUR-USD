@@ -1,5 +1,8 @@
 # FX-trading-bot-EUR-USD
 A EUR/USD trading bot using various quant and technical strategies layered together for the Asia/LDN/NY sessions
+
+<img src = 'images\backtrader_equity_curve.png'>
+
 ## Notebook overview (CRISP-DM framing)
 The accompanying `notebook.ipynb` follows the CRISP-DM lifecycle:
 
@@ -11,6 +14,7 @@ The accompanying `notebook.ipynb` follows the CRISP-DM lifecycle:
 - **Deployment:** Outlines how the modelling pipeline can feed an automated trading bot once robustness criteria are met.
 
 ## Repository structure
+
 - `notebook.ipynb` – end-to-end CRISP-DM workflow for the EUR/USD strategy.
 - `data/`
   - `usd-eur.xml` – historical EUR/USD price data used for EDA, feature engineering, and backtesting.
