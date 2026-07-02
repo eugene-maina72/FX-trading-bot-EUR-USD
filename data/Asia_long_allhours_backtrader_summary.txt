@@ -1,0 +1,19 @@
+Selected strategy: Asia_long_allhours
+Start value: 200.00
+End value: 187.14
+Net PnL: -12.86
+
+Trade analysis:
+AutoOrderedDict({'total': AutoOrderedDict({'total': 91, 'open': 0, 'closed': 91}), 'streak': AutoOrderedDict({'won': AutoOrderedDict({'current': 2, 'longest': 7}), 'lost': AutoOrderedDict({'current': 0, 'longest': 7})}), 'pnl': AutoOrderedDict({'gross': AutoOrderedDict({'total': -12.864409184455639, 'average': -0.1413671338951169}), 'net': AutoOrderedDict({'total': -12.864409184455639, 'average': -0.1413671338951169})}), 'won': AutoOrderedDict({'total': 40, 'pnl': AutoOrderedDict({'total': 9.975919389724863, 'average': 0.24939798474312158, 'max': 1.4451933979988674})}), 'lost': AutoOrderedDict({'total': 51, 'pnl': AutoOrderedDict({'total': -22.840328574180504, 'average': -0.44784957988589225, 'max': -1.4272408843041262})}), 'long': AutoOrderedDict({'total': 91, 'pnl': AutoOrderedDict({'total': -12.864409184455639, 'average': -0.1413671338951169, 'won': AutoOrderedDict({'total': 9.975919389724863, 'average': 0.24939798474312158, 'max': 1.4451933979988674}), 'lost': AutoOrderedDict({'total': -22.840328574180504, 'average': -0.44784957988589225, 'max': -1.4272408843041262})}), 'won': 40, 'lost': 51}), 'short': AutoOrderedDict({'total': 0, 'pnl': AutoOrderedDict({'total': 0.0, 'average': 0.0, 'won': AutoOrderedDict({'total': 0.0, 'average': 0.0, 'max': 0.0}), 'lost': AutoOrderedDict({'total': 0.0, 'average': 0.0, 'max': 0.0})}), 'won': 0, 'lost': 0}), 'len': AutoOrderedDict({'total': 546, 'average': 6.0, 'max': 6, 'min': 6, 'won': AutoOrderedDict({'total': 240, 'average': 6.0, 'max': 6, 'min': 6}), 'lost': AutoOrderedDict({'total': 306, 'average': 6.0, 'max': 6, 'min': 6}), 'long': AutoOrderedDict({'total': 546, 'average': 6.0, 'max': 6, 'min': 6, 'won': AutoOrderedDict({'total': 240, 'average': 6.0, 'max': 6, 'min': 6}), 'lost': AutoOrderedDict({'total': 306, 'average': 6.0, 'max': 6, 'min': 6})}), 'short': AutoOrderedDict({'total': 0, 'average': 0.0, 'max': 0, 'min': 9223372036854775807, 'won': AutoOrderedDict({'total': 0, 'average': 0.0, 'max': 0, 'min': 9223372036854775807}), 'lost': AutoOrderedDict({'total': 0, 'average': 0.0, 'max': 0, 'min': 9223372036854775807})})})})
+
+Drawdown:
+AutoOrderedDict({'len': 3004, 'drawdown': 6.432204592227847, 'moneydown': 12.864409184455695, 'max': AutoOrderedDict({'len': 3004, 'drawdown': 7.625908470153803, 'moneydown': 15.251816940307606})})
+
+Sharpe:
+OrderedDict({'sharperatio': None})
+
+SQN:
+AutoOrderedDict({'sqn': -2.9145836214614165, 'trades': 91})
+
+Returns:
+OrderedDict({'rtot': -0.06648392786516596, 'ravg': -0.004432261857677731, 'rnorm': -0.6727169833723049, 'rnorm100': -67.27169833723049})
